@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testera2/static/css/main.a617e044.chunk.css",
+    "main.js": "/testera2/static/js/main.0c3ff791.chunk.js",
+    "main.js.map": "/testera2/static/js/main.0c3ff791.chunk.js.map",
+    "runtime-main.js": "/testera2/static/js/runtime-main.9842d295.js",
+    "runtime-main.js.map": "/testera2/static/js/runtime-main.9842d295.js.map",
+    "static/js/2.c8a2bd2b.chunk.js": "/testera2/static/js/2.c8a2bd2b.chunk.js",
+    "static/js/2.c8a2bd2b.chunk.js.map": "/testera2/static/js/2.c8a2bd2b.chunk.js.map",
+    "static/js/3.5ecaea7b.chunk.js": "/testera2/static/js/3.5ecaea7b.chunk.js",
+    "static/js/3.5ecaea7b.chunk.js.map": "/testera2/static/js/3.5ecaea7b.chunk.js.map",
+    "index.html": "/testera2/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/testera2/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c8a2bd2b.chunk.js.LICENSE.txt": "/testera2/static/js/2.c8a2bd2b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/testera2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9842d295.js",
+    "static/js/2.c8a2bd2b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0c3ff791.chunk.js"
+  ]
+}
